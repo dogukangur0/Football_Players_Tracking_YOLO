@@ -1,0 +1,6 @@
+train: ../tools/images/train
+val: ../tools/images/val
+test: ../tools/images/test
+
+nc: 6
+names: ["A Team Player", "B Team Player", "A Team Goolkeeper", "B Team Goolkeeper", "Referee", "Ball"]
